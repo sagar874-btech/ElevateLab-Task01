@@ -11,7 +11,7 @@ Build a responsive landing page that adapts seamlessly across all device sizes (
 
 ## ✨ Features
 - Sticky Navigation Header with logo and navigation links
-- Hero Section* with call-to-action button
+- Hero Section with call-to-action button
 - Responsive Footer with social media links
 - Mobile-First Design with hamburger menu indicator
 - Smooth Animations and hover effects
