@@ -26,6 +26,6 @@ Build a responsive landing page that adapts seamlessly across all device sizes (
 
 responsive-landing-page/
 │
-├── index.html          # Main HTML file
-├── style.css           # Stylesheet
-└── README.md           # Project documentation
+├── index.html          Main HTML file
+├── style.css           Stylesheet
+└── README.md           Project documentation
